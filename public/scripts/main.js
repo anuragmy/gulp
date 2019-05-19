@@ -1,2 +1,2 @@
-var name = "mike";
+var name = "andreq";
 document.write("name is " + name);

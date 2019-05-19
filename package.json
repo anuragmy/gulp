@@ -13,9 +13,13 @@
     "@babel/core": "^7.4.4",
     "gulp": "^3.9.1",
     "gulp-babel": "^8.0.0",
+    "gulp-livereload": "^4.0.1",
     "gulp-uglify": "^3.0.2",
     "gulp-uglify-es": "^1.0.4",
     "live-server": "^1.2.1",
     "static-server": "^2.2.1"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1"
   }
 }

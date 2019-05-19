@@ -1,1 +1,1 @@
-var name="mike";document.write("name is "+name);
+var name="andreq";document.write("name is "+name);
